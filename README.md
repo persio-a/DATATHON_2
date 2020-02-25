@@ -8,3 +8,25 @@
 - **Analysis** : repository for all images, graphs and notebooks used to explore the data.
 - **Instructions** : repository with unaltered documentation provided by the professor.
 - **Data** : repository for all data provided and generated from notebooks.
+
+## Notes
+
+> Keep in mind we are Company: 1 in the Survey sheets.
+
+## KPIs For Analysis
+
+- [ ] client_load = client x seller_ID
+- [ ] seller_load = seller_ID / client
+- [ ] actions_per_client = marketing_actions / client
+- [ ] sku_intreast = subject * course per client
+- [ ] effectiveness of activities 
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
