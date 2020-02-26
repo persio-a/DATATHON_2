@@ -1,6 +1,6 @@
-# Datathlon 2
+# Datathon 2
 
-**Objective** : "study loss and predict which teachers will abandon. Loss is defined as the fact a school that decided to adopt a specific material from “Ediciones SM” during 2018 school year, cancel it in 2019." *(predict churn for 2019)*
+**Objective** : "study loss and predict which teachers will abandon. Loss is defined as the fact a school that decided to adopt a specific material from *Ediciones SM* during 2018 school year, cancel it in 2019." *(predict churn for 2019)*
 
 ## Structure of File
 
