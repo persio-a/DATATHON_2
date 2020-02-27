@@ -12,6 +12,9 @@
 ## Notes
 
 > Keep in mind we are Company: 1 in the Survey sheets.
+> Marketing_materials: numbers in marketing actions correspond to a score on how effective a action was. Makreting_actions
+> **Representative does not equal seller_id**
+> Data is real so aditional information can be used, such as grades by region or province.
 
 ## KPIs For Analysis
 
@@ -33,3 +36,5 @@
 - [ ] distinct materials per publisher
 - [ ] distinct materials per seller
 - [ ] distinct materials per client
+
+- [x] sales ratio per seller by year = #copies / distinct(customer_heading) per year
